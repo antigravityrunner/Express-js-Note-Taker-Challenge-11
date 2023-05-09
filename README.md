@@ -6,4 +6,4 @@ I made a note taker that saves notes to a JSON file on the back end.
 
 # [Link to live deployment](https://pure-journey-23826.herokuapp.com/)
 
-![Screenshot of app]()
+![Screenshot of app](screenshots/Note_Taker.PNG)
